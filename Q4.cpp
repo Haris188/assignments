@@ -8,6 +8,7 @@ int f(int x, int n){
 }
 
 int main() {
+    // inputs
     int x_arg = 3;
     int n_arg = 2;
 
